@@ -1,0 +1,41 @@
+product_id,name,category,price,stock_quantity
+96,Tomato Sauce,Groceries,1.8,250
+16,Laptop Stand,Electronics,45.0,15
+31,Smartphone Case,Electronics,14.99,200
+159,Ping Pong Paddles,Sports,20.0,40
+129,Fishing Rod,Sports,65.0,20
+116,Wool Sweater,Apparel,55.0,40
+70,Chicken Breast (1kg),Groceries,11.0,40
+171,Ski Goggles,Sports,55.0,20
+175,Ice Cube Tray,Home & Kitchen,4.0,150
+46,Resistance Bands,Sports,18.0,70
+67,Kettlebell (10kg),Sports,35.0,30
+183,Snorkel Mask,Sports,30.0,45
+166,Magnifying Glass,Stationery,6.0,40
+79,Legal Pad,Stationery,4.0,220
+187,Wall Mirror,Home & Kitchen,40.0,15
+178,Calculator Battery,Stationery,3.0,100
+57,Ethernet Cable (5m),Electronics,8.5,90
+153,Stopwatch,Sports,12.0,70
+83,Running Shorts,Apparel,22.0,95
+69,Microphone (USB),Electronics,65.0,20
+125,Graphics Tablet,Electronics,80.0,15
+17,Greek Yogurt,Groceries,1.25,80
+149,Paper Shredder,Electronics,55.0,12
+94,Clipboard,Stationery,3.5,120
+66,Laptop Backpack,Apparel,55.0,45
+61,Whiteboard Markers,Stationery,5.5,140
+85,Eraser (3pk),Stationery,1.5,400
+68,Desktop Calculator,Stationery,12.0,60
+126,Canned Tuna,Groceries,1.5,400
+133,Picture Frame,Home & Kitchen,12.0,110
+10,Bluetooth Headphones,Electronics,89.0,55
+19,Cast Iron Skillet,Home & Kitchen,40.0,20
+56,Highlighter (4pk),Stationery,4.5,180
+76,Mixing Bowls (Set),Home & Kitchen,24.0,35
+151,Floor Lamp,Home & Kitchen,48.0,20
+105,Sleeping Bag,Sports,50.0,20
+136,Protractor,Stationery,1.0,200
+138,Dark Chocolate,Groceries,2.8,150
+165,Hiking Boots,Sports,95.0,30
+77,Rain Umbrella,Apparel,15.0,70

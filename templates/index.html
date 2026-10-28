@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>AI Enterprise Decision Intelligence Platform</title>
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+
+    <div class="container">
+
+        <h1>AI Enterprise Decision Intelligence Platform</h1>
+
+        <p class="description">
+            Ask questions about sales, inventory, and customer reviews.
+        </p>
+
+        <form method="POST">
+
+            <input
+                type="text"
+                name="question"
+                placeholder="Ask a business question..."
+                required
+            >
+
+            <button type="submit">
+                Ask AI
+            </button>
+
+        </form>
+
+
+        {% if answer %}
+
+        <div class="answer-box">
+
+            <h2>AI Answer</h2>
+
+            <p>{{ answer }}</p>
+
+        </div>
+
+        {% endif %}
+
+    </div>
+
+</body>
+
+</html>
